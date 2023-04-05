@@ -27,6 +27,25 @@ Overall process of our solution is as follows.
 
 ---
 
+## AI repo
+
+
+This particular repository demonstrates workflow from data engineering to recommendation algorithm. The code is not identical to our code on GCP function, but it help understanding the process. 
+
+### Guide
+
+1. Open data_engineering.ipynb 
+    - It shows how the data was built and processed.
+    - Base thoughts we had on designing phase.
+2. Open deeplearning.ipynb
+    - Build a model and analyze it with SHAP library to get feature importance.
+    - If you are unable to run the whole code, it's fine since we added pre-trained model named "wiro_DL_model.h5". You can load model on next notebook or your own.
+3. Open recommendation.ipynb
+    - It contains our database dictionary, and checklist/mission recommendation algorithm 
+    - Can predict the likelihood of lonely death on sample data.
+
+---
+
 ## High-Level Architecture Diagram
 
 <img src="assets/README_Architecture.png"></img>

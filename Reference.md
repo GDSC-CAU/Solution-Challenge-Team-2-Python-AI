@@ -13,7 +13,7 @@ Lonely death is a subject which is major issue in South Korea. Thus Ministery Of
 
 [Survey of lonely Death(2022)](https://www.mohw.go.kr/react/al/sal0301vw.jsp?PAR_MENU_ID=04&MENU_ID=0403&page=1&CONT_SEQ=374084)
 
-[Statistics are located in KOSIS]([KOSIS 국가통계포털](https://kosis.kr/index/index.do))
+[Statistics are located in KOSIS](https://kosis.kr/index/index.do)
 
 
 
