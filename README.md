@@ -29,6 +29,8 @@ Overall process of our solution is as follows.
 
 ## AI repo
 
+<img src= "assets/GCP_logic.png"></img>
+
 
 This particular repository demonstrates workflow from data engineering to recommendation algorithm. The code is not identical to our code on GCP function, but it help understanding the process. 
 
